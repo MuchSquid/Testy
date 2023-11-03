@@ -11,7 +11,7 @@ Integrantes:
 
 Validación de entrada:
 
--Verificando el DNI antes de agregar los datos a la lista dentro del método leer_datos, se garantiza que solo se procesen datos válidos.
+- Verificando el DNI antes de agregar los datos a la lista dentro del método leer_datos, se garantiza que solo se procesen datos válidos.
 
 Uso de estructuras de datos eficientes:
 
