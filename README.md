@@ -1,4 +1,3 @@
-<img width="830" alt="image" src="https://github.com/MuchSquid/Testy/assets/41312479/b335f375-baa4-4153-a932-11b9bd0e7f9c"><img width="830" alt="image" src="https://github.com/MuchSquid/Testy/assets/41312479/e1ed04b2-c16e-45b2-8331-d0cf946427aa">
 # Actividad EC2 - Refactorizacion
 
 Integrantes:
